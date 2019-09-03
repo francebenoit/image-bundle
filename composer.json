@@ -1,7 +1,7 @@
 {
     "name": "fdupont/image-bundle",
     "type": "symfony-bundle",
-    "description": "Do not mess with developper"
+    "description": "Do not mess with developper",
     "keywords": [
         "images",
     ],    
