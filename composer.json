@@ -3,7 +3,7 @@
     "type": "symfony-bundle",
     "description": "Do not mess with developper oo",
     "keywords": [
-        "images",
+        "images"
     ],    
     "license": "MIT",
     "authors": [
